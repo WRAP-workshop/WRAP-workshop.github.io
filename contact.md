@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-#Email contact
-
-Please contact us by email at: wrap-organizers@lists.llnl.gov
+For any queries, please contact us by email at: wrap-organizers@lists.llnl.gov
