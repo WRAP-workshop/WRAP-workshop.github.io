@@ -6,4 +6,4 @@ permalink: /contact/
 
 #Email contact
 
-Please contact us by email at: TBD
+Please contact us by email at: wrap-organizers@lists.llnl.gov

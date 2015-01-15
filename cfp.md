@@ -4,7 +4,8 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-The WRAp workshop is concerned with the use of representative applications.
+The WRAp workshop is concerned with the creation, evaluation and use of
+representative applications.
 
 # Workshop Dates
 TBA

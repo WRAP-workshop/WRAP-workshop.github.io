@@ -4,5 +4,7 @@ title: Submission
 permalink: /submission/
 ---
 
-#Registration details
+#Submission details
+
 TBA
+
