@@ -13,12 +13,12 @@ The challenges posed by future systems: new architectures, programming models,
 and machine scales; mean that representative applications as an essential tool
 in the path towards exascale. These applications can be used for acceptance
 testing, benchmarking, optimization evaluation, and also investigating the
-performance of new architectures or programming models. However, the development
-of such representative applications must ensure they maintain some
-correspondence with their parent application, so requires methods and tools for
-identifying the performance critical aspects of a given code, or class of codes,
-and also for verifying that the proxy effectively models the the target
-behavior. 
+performance of new architectures or programming models. However, the
+development of such representative applications must ensure they maintain some
+correspondence with their parent application. Maintaining that correspodence
+requires methods and tools for identifying the performance critical aspects of
+a given code, or class of codes, and also for verifying that the proxy
+accurately models the the target behavior. 
 
 The main aim of WRAp is to provide a venue in which the wide range of
 disciplines involved in creating and using representative applications can share

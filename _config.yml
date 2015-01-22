@@ -1,7 +1,7 @@
 # pass
 # Site settings
-title: "WRAp : Workshop on Representative Applications"
-email: 555@555.org
+title: "WRAp: Workshop on Representative Applications"
+email: wrap-organizers@lists.llnl.gov
 description: > # this means to ignore newlines until "baseurl:"
   Website for the first Workshop on Representative Applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
