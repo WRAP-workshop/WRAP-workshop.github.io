@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 Held as part of IEEE Cluster 2015, the First International Workshop on
@@ -18,11 +18,11 @@ development of such representative applications must ensure they maintain some
 correspondence with their parent application. Maintaining that correspodence
 requires methods and tools for identifying the performance critical aspects of
 a given code, or class of codes, and also for verifying that the proxy
-accurately models the the target behavior. 
+accurately models the the target behavior.
 
 The main aim of WRAp is to provide a venue in which the wide range of
 disciplines involved in creating and using representative applications can share
-important discoveries and lessons learned from these applications. 
+important discoveries and lessons learned from these applications.
 
 We encourage submissions on all aspects of the design, creation and use of
 representative applications, including (but not limited to):
