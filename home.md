@@ -41,8 +41,14 @@ representative applications, including (but not limited to):
 Work which examines similar topics will also be considered for inclusion in the
 workshop.
 
+#Submissions and special issue
+
+Paper submissions will be in PDF format and represent US Letter paper size.  
 Information on how to submit a paper including the correct format, page length
 and other constraints can be found [here](/submission).
+
+The best papers will be featured in a **special issue** of the [International 
+Journal of High Performance Computing Applications (IJHPCA)](http://hpc.sagepub.com/).
 
 # Important Dates
 
