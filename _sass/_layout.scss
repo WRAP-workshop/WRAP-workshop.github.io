@@ -2,9 +2,13 @@
  * Site header
  */
 .site-header {
+    background-image: url("/chicago-skyline-cropped.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 256px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
