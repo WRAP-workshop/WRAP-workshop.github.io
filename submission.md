@@ -18,4 +18,4 @@ Authors of selected papers will also be invited to submit revised manuscripts
 for inclusion in a special issue of the [International Journal of
 High-Performance Computing Applications](http://hpc.sagepub.com/).
 
-Papers should be submitted using EasyChair.
+Papers should be submitted using [EasyChair](https://easychair.org/conferences/?conf=wrap2015).
