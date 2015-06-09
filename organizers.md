@@ -12,4 +12,3 @@ permalink: /organizers/
 # Technical Committee
 
 {% include technical-committee.md %}
-Coming soon.
