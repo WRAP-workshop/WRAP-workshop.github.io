@@ -6,8 +6,8 @@ permalink: /submission/
 
 Authors are invited to submit full papers with unpublished, original work of not
 more than 8 pages of double column text using single spaced fonts on pages of
-8.5 x 11 inches (this limit includes all figures, content etc but does not
-include references). Up to four additional pages may be purchased at the following 
+8.5 x 11 inches (this limit includes all figures, content and references). Up 
+to four additional pages may be purchased at the following 
 prices: $100 for one page, $300 for two, $600 for three, and $1000 for four.  All 
 papers should be formatted to use the IEEE conference proceedings, the template and
 guidelines are available 
