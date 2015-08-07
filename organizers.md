@@ -6,7 +6,7 @@ permalink: /organizers/
 
 # Workshop Chairs
 
-- David Beckingsale, University of Warwick, UK.
+- David Beckingsale, Lawrence Livermore National Laboratory, USA.
 - Tom Scogland, Lawrence Livermore National Laboratory, USA.
 
 # Technical Committee
