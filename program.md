@@ -4,6 +4,21 @@ title: Program
 permalink: /program/
 ---
 
+# <small>09:00 - 10:00</small> Keynote
+
+- **Making Representative Apps Represent Apps**, Dr. Michael Heroux.
+
+Representative Apps play a very important role design space exploration.  If
+well designed and implemented they provide a distilled model of some aspect of
+real applications, providing much simpler target for computer system designer to
+address.  Furthermore, representative apps can be re-designed and implemented in
+many settings, giving guidance on how future real applications can be recast.
+
+In this presentation, we give a brief history of representative apps, provide
+some guidance on how to design and implement them and talk about some of our
+latest work in this area.  We draw upon experiences from the Mantevo and HPCG
+benchmark projects in order to provide concrete examples.
+
 # <small>10:30 - 12:30</small> Computational Sciences
 
 - 10:30--11:00: **Performance Evaluation of Unstructured Mesh Physics on Advanced Architectures**,  Charles Ferenbaugh.
