@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Held as part of IEEE Cluster 2015, the First International Workshop on
+Held as part of IEEE Cluster 2016, the Second International Workshop on
 Representative Applications is concerned with the development and use of
 representative applications (such as mini-applications or proxies) for all
 aspects of high-performance computing.
@@ -41,14 +41,11 @@ representative applications, including (but not limited to):
 Work which examines similar topics will also be considered for inclusion in the
 workshop.
 
-#Submissions and special issue
+# Submissions 
 
-Paper submissions will be in PDF format and represent US Letter paper size.  
+Paper submissions will be in PDF format and on US Letter paper size.
 Information on how to submit a paper including the correct format, page length
 and other constraints can be found [here](/submission).
-
-The best papers will be featured in a **special issue** of the [International 
-Journal of High Performance Computing Applications (IJHPCA)](http://hpc.sagepub.com/).
 
 # Important Dates
 
