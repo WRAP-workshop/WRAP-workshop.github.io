@@ -5,7 +5,7 @@ permalink: /submission/
 ---
 
 Authors are invited to submit full papers with unpublished, original work of not
-more than 6 pages of double column text using single spaced fonts on pages of
+more than 8 pages of double column text using single spaced fonts on pages of
 8.5 x 11 inches (this limit includes all figures, content and references).  All
 papers should be formatted according to the IEEE Cluster guidelines as published
 [here](http://www.ieeecluster2016.org/AuthorInformation.html). An additional
